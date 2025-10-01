@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "cd urban-v2 && npm run dev",
+    "build": "cd urban-v2 && npm run build",
+    "export": "cd urban-v2 && npm run export",
+    "start": "cd urban-v2 && npm run start"
+  }
+}
